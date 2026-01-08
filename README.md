@@ -97,6 +97,12 @@ A Streamlit-based web application allows users to:
 - Paste a problem description
 - Predict difficulty class and score instantly
 
+Name - Naman Kansal 
+Enrollment no - 24113088
+Branch - Chemical Engineering
+
 Run the app with:
 ```bash
 streamlit run app.py
+
+
